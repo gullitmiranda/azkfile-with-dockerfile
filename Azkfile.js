@@ -4,7 +4,7 @@
 
 // Adds the systems that shape your system
 systems({
-  'azkfile-with-dockerfile': {
+  'node-dockerfile': {
     // Dependent systems
     depends: [],
     // More images:  http://images.azk.io
